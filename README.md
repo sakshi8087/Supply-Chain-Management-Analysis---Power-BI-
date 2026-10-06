@@ -68,16 +68,21 @@ Section	Details
 💡 Insight 1: [add title and one-line finding]
 💡 Insight 2: [add title and one-line finding]
 🖼️ Screenshots
-![Executive Summary]
+
+Executive Summary
+
 <img width="683" height="359" alt="image" src="https://github.com/user-attachments/assets/52581647-bdc5-4dcd-8903-0ebfe16eb2d9" />
 
-![Product Insights]
+Product Insights
+
 <img width="677" height="356" alt="image" src="https://github.com/user-attachments/assets/fbbe3cf5-0a0d-43ed-a03e-f330d50b63a8" />
 
-![Performance Analysis]
+Performance Analysis
+
 <img width="694" height="365" alt="image" src="https://github.com/user-attachments/assets/be8c9aca-dba5-4783-8faa-c0f9b5516921" />
 
-![Conclusion]
+Conclusion
+
 <img width="679" height="363" alt="image" src="https://github.com/user-attachments/assets/1c87aa2a-9810-4f28-9f7f-5e5f6d1073a1" />
 
 📐 Key Metrics
